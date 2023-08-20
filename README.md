@@ -5,4 +5,4 @@ Effortlessly manage your entire inventory with Tristen's E-commerce Back End, th
 in vs code open integrated terminal run mysql2 server, in another integrated teminal window run npm install, node seeds/ then node index.js
 
 ## walkthrough video
-[Ecommerce backend.webm](https://github.com/Tristenh/Ecommerce-Back-End/assets/121472192/486f8bb3-c68e-425f-aef2-7f47e5327c58)
+[ecommerce backend (2).webm](https://github.com/Tristenh/Ecommerce-Back-End/assets/121472192/d5b58902-b762-4acd-978b-c8b6a5f9f712)
